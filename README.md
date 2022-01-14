@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohsin 👋
 
--> I'm aspiring to become an Mobile App Developer.
+-> I'm aspiring to become a Mobile App Developer.
 
 -> I’m currently working on OOPs concepts and Java.
 
