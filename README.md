@@ -25,7 +25,7 @@
 
 
 
-[![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinAli0899&show_icons=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinAli0899&show_icons=true&count_private=true&hide=prsinclude_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MohsinAli0899/Mohsinali0899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
