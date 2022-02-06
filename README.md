@@ -1,4 +1,4 @@
-## Hi there, I'm Mohsin 👋
+## Hi there, I'm Mohsin. 👋
 
 -> 😄 I'm aspiring to become a Mobile App Developer.
 
