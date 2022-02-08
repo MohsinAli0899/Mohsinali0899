@@ -6,7 +6,7 @@
 
 -> 👯 I’m looking to collaborate on Open source projects.
 
--> 💬 Ask me about App Development.
+-> 💬 Ask me about Mobile App Development.
 
 -> 📫 How to reach me: www.linkedin.com/in/mohsin-ali-9549a31a9
 
