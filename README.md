@@ -8,7 +8,8 @@
 
 -> 💬 Ask me about Mobile App Development.
 
--> 📫 How to reach me: www.linkedin.com/in/mohsin-ali-9549a31a9
+-> 📫 How to reach me: https://www.linkedin.com/in/mohsin-ali-9549a31a9/
+
 
 ## Languages and Tools
 ![icons8-android-os-64](https://user-images.githubusercontent.com/95999134/152684680-10d2d0d1-7625-4cbc-b8df-0d018d659ce1.png)
