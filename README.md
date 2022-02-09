@@ -9,7 +9,6 @@
 -> 💬 Ask me about Mobile App Development.
 
 #### 📫 Connect with me:   
-
   <a href="https://www.linkedin.com/in/mohsin-ali-9549a31a9/" target="_blank">
   <img alt= "Mohsin | LinkedIn" width="28px" src="https://user-images.githubusercontent.com/95999134/153262267-ba18e1af-834f-4867-9021-26f27183d2ac.png" />
   </a>
@@ -19,8 +18,6 @@
   <a href="mailto:mohsin.saifi98@gmail.com" target="_blank">
   <img alt= "Mohsin | Gmail" width="28px" src="https://user-images.githubusercontent.com/95999134/153264363-eb53200b-a3ea-42b7-b772-f28b51f00842.png" />
   </a>
-
-
 
 ## Languages and Tools
 ![icons8-android-os-64](https://user-images.githubusercontent.com/95999134/152684680-10d2d0d1-7625-4cbc-b8df-0d018d659ce1.png)
@@ -37,7 +34,7 @@
 
 
 
-[![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinAli0899&show_icons=true&count_private=true&include_all_commits=)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinAli0899&show_icons=true&count_private=true&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MohsinAli0899/Mohsinali0899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
