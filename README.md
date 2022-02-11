@@ -31,6 +31,7 @@
 ![icons8-mysql-logo-64](https://user-images.githubusercontent.com/95999134/152684736-7659fc69-9269-4de9-a292-51efb3238140.png)
 ![icons8-android-studio-64](https://user-images.githubusercontent.com/95999134/152685037-39d5edfc-4a16-462f-845b-5be604ab73c5.png)
 ![icons8-visual-studio-code-2019-64](https://user-images.githubusercontent.com/95999134/152684843-9afd18e8-da1f-436b-91cc-ac6e34576885.png)
+![icons8-intellij-idea-64](https://user-images.githubusercontent.com/95999134/153581286-a2c75f9f-8257-461d-8cdd-12077ac061c6.png)
 
 
 
