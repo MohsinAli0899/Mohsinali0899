@@ -1,6 +1,6 @@
 ## Hi, I'm Mohsin. 👋
 
--> 😄 I'm aspiring to become a Mobile App Developer.
+-> 😄 I'm aspiring to become a Mobile Application Developer.
 
 -> 🌱 I’m currently working on Java and Kotlin.
 
