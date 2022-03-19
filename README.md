@@ -1,8 +1,8 @@
 ## Hi, I'm Mohsin. 👋
 
--> 😄 I'm aspiring to become a Mobile Application Developer.
+-> 😄 I'm a Mobile Application Developer.
 
--> 🌱 I’m currently working on Java and Kotlin.
+-> 🌱 I’m currently working on android apps using Kotlin.
 
 -> 👯 I’m looking to collaborate on Open source projects.
 
