@@ -39,7 +39,7 @@
 
 
 
-[![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinAli0899&count_private=true&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinAli0899&count_private=true&theme=dark&show_icons=true&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohsinAli0899&theme=dark)](https://git.io/streak-stats)
 
 <!--
