@@ -43,7 +43,7 @@
 <!--
 **MohsinAli0899/Mohsinali0899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohsinAli0899&theme=dark)](https://git.io/streak-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
