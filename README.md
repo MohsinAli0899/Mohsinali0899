@@ -20,6 +20,8 @@
   </a>
 
 ## Languages and Tools
+<p>
+  
 ![icons8-android-os-64](https://user-images.githubusercontent.com/95999134/152684680-10d2d0d1-7625-4cbc-b8df-0d018d659ce1.png)
 ![icons8-kotlin-64](https://user-images.githubusercontent.com/95999134/152684785-a0adb8d5-5964-4067-8d8e-e63ac45915bf.png)
 ![icons8-java-64](https://user-images.githubusercontent.com/95999134/152684513-bee59b2b-5ffb-4b81-9297-9d7512478585.png)
@@ -37,6 +39,7 @@
 ![icons8-visual-studio-code-2019-64](https://user-images.githubusercontent.com/95999134/152684843-9afd18e8-da1f-436b-91cc-ac6e34576885.png)
 ![icons8-intellij-idea-64](https://user-images.githubusercontent.com/95999134/153581286-a2c75f9f-8257-461d-8cdd-12077ac061c6.png)
 
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohsinAli0899&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinAli0899&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
