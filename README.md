@@ -2,7 +2,7 @@
 
 -> 😄 I'm a Mobile Application Developer.
 
--> 🌱 I’m currently working on android apps using Kotlin and Java.
+-> 🌱 I’m currently working on android applications using Kotlin and Java.
 
 -> 👯 I’m looking to collaborate on Open source projects.
 
