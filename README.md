@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/mohsin-ali-9549a31a9/" target="_blank">
   <img alt= "Mohsin | LinkedIn" width="28px" src="https://user-images.githubusercontent.com/95999134/153262267-ba18e1af-834f-4867-9021-26f27183d2ac.png" />
   </a>
-  <a href="https://twitter.com/Mohsin_0899" target="_blank">
-  <img alt="Mohsin Ali | Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-  </a>
   <a href="mailto:mohsin.saifi98@gmail.com" target="_blank">
   <img alt= "Mohsin | Gmail" width="28px" src="https://user-images.githubusercontent.com/95999134/153264363-eb53200b-a3ea-42b7-b772-f28b51f00842.png" />
   </a>
