@@ -1,12 +1,12 @@
 ## Hi, I'm Mohsin.👋
 
--> 😄 I'm a Mobile Application Developer.
+-> 😄 I'm a Software Developer.
 
--> 🌱 I’m currently working on Flutter Applications.
+-> 🌱 I’m currently working on React.js and React Native Applications.
 
 -> 👯 I’m looking to collaborate on Open source projects.
 
--> 💬 Ask me about Mobile App Development.
+-> 💬 Ask me about Frontend Development.
 
 #### 📫 Connect with me:   
   <a href="https://www.linkedin.com/in/mohsin-ali-9549a31a9/" target="_blank">
